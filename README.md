@@ -1,6 +1,6 @@
 | __Название__| Описание |Используемые библиотеки
 |:-----------:|:-------------|:-----------|
-|AB testing analysis | Анализ поведения пользователей мобильного приложения при изменении в приложении |Pandas, Matplotlib |
+|AB testing analysis | Анализ поведения пользователей мобильного приложения при изменении в приложении |Pandas, Matplotlib, scipy |
 |Key marketing metrics analysis|Расчет и оценка ключевых маркетинговых метрик|Pandas, Numpy, Matplotlib, Seaborn|Pandas, Numpy, Matplotlib|
 |Sales analysis| Выявление факторов коммерческой успешности продукта для планирования рекламной поддержки|Pandas, Numpy, Matplotlib, Seaborn|
 |ML for trading| Создание модели для торгов на основе котировок компаний по данным Yahoo Finance |Pandas, Numpy, Tensorflow, Matplotlib|
