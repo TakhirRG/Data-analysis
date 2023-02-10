@@ -5,4 +5,5 @@
 |Sales analysis| Выявление факторов коммерческой успешности продукта для планирования рекламной поддержки|Pandas, Numpy, Matplotlib, Seaborn|
 |ML for trading| Создание модели для торгов на основе котировок компаний по данным Yahoo Finance |Pandas, Numpy, Tensorflow, Matplotlib|
 |Public catering in Moscow| Анализ рынка общественного питания в Москве для открытия новой точки|Pandas, Numpy, Matplotlib, Seaborm, Plotly, Folium, Json|
+|Анилиз поведения пользователей мобильного приложения| Выявление факторов, влияющих на уровень конверсии в целевое действие| Pandas, Seaborn, Plotly, numpy, scipy, math|
 
