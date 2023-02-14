@@ -6,5 +6,4 @@
 |[ML for trading](https://github.com/TakhirRG/data-analysis/blob/main/ML%20for%20trading.ipynb)| Создание модели для торгов на основе котировок компаний по данным Yahoo Finance |Pandas, Numpy, Tensorflow, Matplotlib|
 |[Public catering in Moscow](https://github.com/TakhirRG/data-analysis/blob/main/Public%20catering%20in%20Moscow%20.ipynb)| Анализ рынка общественного питания в Москве для открытия новой точки|Pandas, Numpy, Matplotlib, Seaborm, Plotly, Folium, Json|
 |[Анализ поведения пользователей мобильного приложения](https://github.com/TakhirRG/data-analysis/blob/main/Анализ%20поведения%20пользователей%20приложения.ipynb)| Выявление факторов, влияющих на уровень конверсии в целевое действие| Pandas, Seaborn, Plotly, numpy, scipy, math|
-|Анализ качества проведения и результатов А/B теста|Тестирование изменений, связанных с внедрением улучшенной рекомендательной системы| Pandas, numpy, scipy, math, Plotly, Seaborn|
-
+|[Анализ качества проведения и результатов А/B теста](https://github.com/TakhirRG/data-analysis/blob/main/Анализ%20проведения%20и%20результатов%20%20АВ%20теста.ipynb)|Тестирование изменений, связанных с внедрением улучшенной рекомендательной системы| Pandas, numpy, scipy, math, Plotly, Seaborn|
