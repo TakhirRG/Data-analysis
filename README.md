@@ -1,6 +1,6 @@
 | __Название__| Описание |Используемые библиотеки
 |:-----------:|:-------------|:-----------|
-|[AB testing analysis] (https://github.com/TakhirRG/data-analysis/blob/main/AB%20testing%20analysis.ipynb
+|[AB testing analysis](https://github.com/TakhirRG/data-analysis/blob/main/AB%20testing%20analysis.ipynb
 )| Анализ поведения пользователей мобильного приложения при изменении в приложении |Pandas, Matplotlib, scipy |
 |Key marketing metrics analysis|Расчет и оценка ключевых маркетинговых метрик|Pandas, Numpy, Matplotlib, Seaborn|Pandas, Numpy, Matplotlib|
 |Sales analysis| Выявление факторов коммерческой успешности продукта для планирования рекламной поддержки|Pandas, Numpy, Matplotlib, Seaborn|
